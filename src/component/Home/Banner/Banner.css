@@ -1,0 +1,25 @@
+.banner-image-container {
+  position: relative;
+  overflow: hidden;
+}
+
+@keyframes animateImageBorder {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.3);
+  }
+
+  50% {
+    transform: scale(1.1);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.3);
+  }
+
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.3);
+  }
+}
+
+.animate-border {
+  animation: animateImageBorder 5s infinite;
+}

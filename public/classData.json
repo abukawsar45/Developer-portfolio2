@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "64846c69cb25b7ddef1282ad",
+    "className": "Introduction to Oil Painting",
+    "image": "https://i.ibb.co/T8ptPd1/download-5.jpg",
+    "instructorName": "ArtGuru",
+    "instructorEmail": "instructor1@mr.com",
+    "seats": 5,
+    "price": 120,
+    "enrolled": 5
+  },
+  {
+    "_id": "64846cb1cb25b7ddef1282ae",
+    "className": "Watercolor Techniques for Beginners",
+    "image": "https://i.ibb.co/ypMS380/download-6.jpg",
+    "instructorName": "ArtGuru",
+    "instructorEmail": "instructor1@mr.com",
+    "seats": 11,
+    "price": 200,
+    "enrolled": 9
+  },
+  {
+    "_id": "64846cf6cb25b7ddef1282af",
+    "className": "Figure Drawing Workshop",
+    "image": "https://i.ibb.co/G3n0cqS/qbj9ekuili192adxztau.jpg",
+    "instructorName": "ArtGuru",
+    "instructorEmail": "instructor1@mr.com",
+    "seats": 20,
+    "price": 50,
+    "enrolled": 6
+  },
+  {
+    "_id": "64847c9ce840e1ee50e8fe4e",
+    "className": "Exploring Mixed Media Art",
+    "image": "https://i.ibb.co/nfyQFZw/download-8.jpg",
+    "instructorName": "MasterPainter",
+    "instructorEmail": "instructor2@mr.com",
+    "seats": 8,
+    "price": 125,
+    "enrolled": 2
+  },
+  {
+    "_id": "64847cfbe840e1ee50e8fe50",
+    "className": "Introduction to Digital Art",
+    "image": "https://i.ibb.co/gyS1Nm7/images-4.jpg",
+    "instructorName": "MasterPainter",
+    "instructorEmail": "instructor2@mr.com",
+    "seats": 8,
+    "price": 500,
+    "enrolled": 3
+  },
+  {
+    "_id": "64847d526a253457722ec677",
+    "className": "Sculpting with Clay",
+    "image": "https://i.ibb.co/d0WgYht/sculpting-clay-charlotte-observer.jpg",
+    "instructorName": "CreativeGenius",
+    "instructorEmail": "instructor3@mr.com",
+    "seats": 7,
+    "price": 70,
+    "enrolled": 2
+  },
+  {
+    "_id": "64847db46a253457722ec678",
+    "className": "Introduction to Calligraphy",
+    "image": "https://i.ibb.co/P9hjBcr/7-e1536054195106-1140x570-1.jpg",
+    "instructorName": "CreativeGenius",
+    "instructorEmail": "instructor3@mr.com",
+    "seats": 10,
+    "price": 50,
+    "enrolled": 2
+  },
+  {
+    "_id": "64847de46a253457722ec679",
+    "className": "Printmaking Techniques",
+    "image": "https://i.ibb.co/TPHxLDY/download-10.jpg",
+    "instructorName": "CreativeGenius",
+    "instructorEmail": "instructor3@mr.com",
+    "seats": 4,
+    "price": 300,
+    "enrolled": 2
+  },
+  {
+    "_id": "64847e6de840e1ee50e8fe51",
+    "className": "Impressionistic Watercolor Techniques",
+    "image": "https://i.ibb.co/VCP3HHj/download-12.jpg",
+    "instructorName": "Instructor 4",
+    "instructorEmail": "instructor4@mr.com",
+    "seats": 8,
+    "price": 90,
+    "enrolled": 1
+  },
+  {
+    "_id": "64847e8fe840e1ee50e8fe52",
+    "className": "Palette Knife Painting Workshop",
+    "image": "https://i.ibb.co/4YVTt34/download-13.jpg",
+    "instructorName": "Instructor 4",
+    "instructorEmail": "instructor4@mr.com",
+    "seats": 14,
+    "price": 130,
+    "enrolled": 1
+  },
+  {
+    "_id": "64847ec2e840e1ee50e8fe53",
+    "className": "Charcoal Drawing Masterclass",
+    "image": "https://i.ibb.co/tcFhF5y/download-14.jpg",
+    "instructorName": "Instructor 4",
+    "instructorEmail": "instructor4@mr.com",
+    "seats": 30,
+    "price": 60,
+    "enrolled": 1
+  },
+  {
+    "_id": "64847f0b6a253457722ec67b",
+    "className": "Pen and Ink Illustration Techniques",
+    "image": "https://i.ibb.co/W2CxLz4/download-15.jpg",
+    "instructorName": "DesignMaestro",
+    "instructorEmail": "instructor5@mr.com",
+    "seats": 12,
+    "price": 98,
+    "enrolled": 1
+  },
+  {
+    "_id": "64847f3b6a253457722ec67c",
+    "className": "Realistic Pencil Portraits",
+    "image": "https://i.ibb.co/z7ZwsXK/download-16.jpg",
+    "instructorName": "DesignMaestro",
+    "instructorEmail": "instructor5@mr.com",
+    "seats": 13,
+    "price": 210,
+    "enrolled": 1
+  },
+  {
+    "_id": "64847f9a6a253457722ec67e",
+    "className": "Art History: Exploring Great Masterpieces",
+    "image": "https://i.ibb.co/Tr5k5tW/download-18.jpg",
+    "instructorName": "CraftExpert",
+    "instructorEmail": "instructor6@mr.com",
+    "seats": 50,
+    "price": 130,
+    "enrolled": 1
+  },
+  {
+    "_id": "64847fce6a253457722ec67f",
+    "className": "Landscape Painting: Capturing Scenic Beauty",
+    "image": "https://i.ibb.co/GV4frT7/download-19.jpg",
+    "instructorName": "CraftExpert",
+    "instructorEmail": "instructor6@mr.com",
+    "seats": 11,
+    "price": 133,
+    "enrolled": 0
+  },
+  {
+    "_id": "64847ff66a253457722ec680",
+    "className": "Abstract Acrylic Pouring Techniques",
+    "image": "https://i.ibb.co/NjcJj6d/download-20.jpg",
+    "instructorName": "CraftExpert",
+    "instructorEmail": "instructor6@mr.com",
+    "seats": 15,
+    "price": 36,
+    "enrolled": 1
+  },
+  {
+    "_id": "648480326a253457722ec681",
+    "className": "Inktober Challenge: Daily Ink Drawings",
+    "image": "https://i.ibb.co/V9sFMBQ/0cfebczbpb7l2pgtqnsc.jpg",
+    "instructorName": "Art Boos",
+    "instructorEmail": "instructor7@mr.com",
+    "seats": 13,
+    "price": 140,
+    "enrolled": 0
+  },
+  {
+    "_id": "6484804f6a253457722ec682",
+    "className": "Colored Pencil Techniques: Realism and Texture",
+    "image": "https://i.ibb.co/5BSCWjs/download-21.jpg",
+    "instructorName": "Art Boos",
+    "instructorEmail": "instructor7@mr.com",
+    "seats": 16,
+    "price": 230,
+    "enrolled": 1
+  },
+  {
+    "_id": "648480906a253457722ec683",
+    "className": "Gesture Drawing: Capturing the Essence of Movement",
+    "image": "https://i.ibb.co/fMsXHcH/download-22.jpg",
+    "instructorName": "Art Boos",
+    "instructorEmail": "instructor7@mr.com",
+    "seats": 60,
+    "price": 131,
+    "enrolled": 1
+  },
+  {
+    "_id": "648481046a253457722ec685",
+    "className": "Botanical Drawing and Illustration",
+    "image": "https://i.ibb.co/SB0hs05/download-24.jpg",
+    "instructorName": "Art Boos",
+    "instructorEmail": "instructor7@mr.com",
+    "seats": 19,
+    "price": 56,
+    "enrolled": 0
+  },
+  {
+    "_id": "6484812de840e1ee50e8fe54",
+    "className": "Cartooning and Character Design",
+    "image": "https://i.ibb.co/KrLjNqW/download-25.jpg",
+    "instructorName": "SculptureMaster",
+    "instructorEmail": "instructor8@mr.com",
+    "seats": 56,
+    "price": 300,
+    "enrolled": 1
+  },
+  {
+    "_id": "64848149e840e1ee50e8fe55",
+    "className": "Realistic Animal Drawing",
+    "image": "https://i.ibb.co/SVxqBTW/download-26.jpg",
+    "instructorName": "SculptureMaster",
+    "instructorEmail": "instructor8@mr.com",
+    "seats": 40,
+    "price": 150,
+    "enrolled": 0
+  },
+  {
+    "_id": "64848167e840e1ee50e8fe56",
+    "className": "Anatomy for Artists: Drawing the Human Figure",
+    "image": "https://i.ibb.co/3cB0zVG/download-27.jpg",
+    "instructorName": "SculptureMaster",
+    "instructorEmail": "instructor8@mr.com",
+    "seats": 23,
+    "price": 80,
+    "enrolled": 0
+  },
+  {
+    "_id": "6484818e6a253457722ec686",
+    "className": "Exploring Abstract Drawing Techniques",
+    "image": "https://i.ibb.co/KbLRdBt/download-28.jpg",
+    "instructorName": "TheaterTeacher",
+    "instructorEmail": "instructor9@mr.com",
+    "seats": 165,
+    "price": 45,
+    "enrolled": 0
+  },
+  {
+    "_id": "648481bb6a253457722ec687",
+    "className": "Clay Modeling and Sculpting Basics",
+    "image": "https://i.ibb.co/XbNKxRM/Carving-Sculpting-Clay.webp",
+    "instructorName": "TheaterTeacher",
+    "instructorEmail": "instructor9@mr.com",
+    "seats": 90,
+    "price": 214,
+    "enrolled": 0
+  },
+  {
+    "_id": "6484821ce840e1ee50e8fe57",
+    "className": "Plein Air Watercolor: Painting En Plein Air Landscapes",
+    "image": "https://i.ibb.co/FsNck7f/download-29.jpg",
+    "instructorName": "Art Instructor",
+    "instructorEmail": "instructor10@mr.com",
+    "seats": 32,
+    "price": 90,
+    "enrolled": 2
+  },
+  {
+    "_id": "648548dddf984a94bbc3537d",
+    "className": "test class test ",
+    "image": "https://i.ibb.co/4mHTsZw/Screenshot-581.png",
+    "instructorName": "ArtGuru",
+    "instructorEmail": "instructor1@mr.com",
+    "seats": 2,
+    "price": 2,
+    "enrolled": 1
+  },
+  {
+    "_id": "648675c3bebfc8609107305e",
+    "className": "test class",
+    "image": "https://i.ibb.co/FYYGHvr/download-13.jpg",
+    "instructorName": "ArtGuru",
+    "instructorEmail": "instructor1@mr.com",
+    "seats": 2,
+    "price": 2,
+    "enrolled": 0
+  },
+  {
+    "_id": "6487ebc4b0964fa203305605",
+    "className": "test class",
+    "image": "https://i.ibb.co/xfxNQxS/download-22.jpg",
+    "instructorName": "ArtGuru",
+    "instructorEmail": "instructor1@mr.com",
+    "seats": 2,
+    "price": 2,
+    "enrolled": 1
+  },
+  {
+    "_id": "6488b26417545d986a23b1dd",
+    "className": "s",
+    "image": "https://i.ibb.co/fr8d9L4/download.jpg",
+    "instructorName": "lo",
+    "instructorEmail": "hero2@gmail.com",
+    "seats": 20,
+    "price": 20,
+    "enrolled": 0
+  }
+]
