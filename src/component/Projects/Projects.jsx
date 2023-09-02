@@ -18,15 +18,26 @@ const Projects = () => {
         </h4>
       </div>
       <div className='border-b-2 border-violet-500 my-4'></div>
-      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:gap-4'>
-        <div>
-          <Teaching />
+      {/* <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:gap-4'> */}
+      <div className='lg:gap-4'>
+        <div className='grid grid-cols-12 '>
+          <div className='col-span-12 lg:col-span-8'>
+            <Teaching />
+          </div>
+          <div className='lg:col-span-4'></div>
         </div>
-        <div>
-          <Toy />
+        <div className='grid grid-cols-12 '>
+          <div className='lg:col-span-2'></div>
+          <div className='col-span-12 lg:col-span-8'>
+            <Toy />
+          </div>
+          <div className='lg:col-span-2'></div>
         </div>
-        <div>
-          <Chef />
+        <div className='grid grid-cols-12 '>
+          <div className='lg:col-span-4'></div>
+          <div className='col-span-12 lg:col-span-8'>
+            <Chef />
+          </div>
         </div>
       </div>
     </div>

@@ -14,7 +14,7 @@ const Skills = () => {
   }, [location.pathname]);
 
   return (
-    <div id='skills' className='highlight-section py-16'>
+    <div id='skills' className='highlight-section py-16 '>
       <div className='border-b-2 border-violet-500 my-4'></div>
       <div>
         <h4 className='text-center font-thin text-2xl text-sky-500 '>
@@ -24,7 +24,7 @@ const Skills = () => {
       <div className='border-b-2 border-violet-500 my-4'></div>
       <div>
         <div
-          className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4'
+          className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 '
           data-aos='fade-up'
           data-aos-delay='500'
         >
@@ -68,16 +68,32 @@ const Skills = () => {
           <div className='flex flex-col justify-center items-center my-3'>
             <img
               className='mx-auto w-24 md:my-4 lg:my-6 bg-slate-400 rounded-lg p-4 bg-opacity-10'
-              src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'
+              src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'
             />
-            <h4>NodeJs</h4>
+            <h4>ReactJs</h4>
+          </div>
+          {/*  */}
+          <div className='flex flex-col justify-center items-center my-3'>
+            <img
+              className='mx-auto w-24 md:my-4 lg:my-6 bg-slate-400 rounded-lg p-4 bg-opacity-10'
+              src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'
+            />
+            <h4>NextJs</h4>
           </div>
           <div className='flex flex-col justify-center items-center my-3'>
             <img
               className='mx-auto w-24 md:my-4 lg:my-6 bg-slate-400 rounded-lg p-4 bg-opacity-10'
-              src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'
+              src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'
             />
-            <h4>ReactJs</h4>
+            <h4>TypeScript</h4>
+          </div>
+          {/*  */}
+          <div className='flex flex-col justify-center items-center my-3'>
+            <img
+              className='mx-auto w-24 md:my-4 lg:my-6 bg-slate-400 rounded-lg p-4 bg-opacity-10'
+              src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'
+            />
+            <h4>NodeJs</h4>
           </div>
           <div className='flex flex-col justify-center items-center my-3'>
             <img
